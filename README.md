@@ -1,7 +1,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/123105916?v=4" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aben Princely</h1>
@@ -47,7 +47,8 @@
 ### 🔧 Django + React Patient Feedback System
 > A multilingual platform to collect patient feedback, analyze sentiment, and trigger real-time alerts.
   
-![project1](https://your-image-url.com/project1.png)
+![project1](https://dampai.netlify.app/home.png)
+![AI ASSISTANCE IN HEALTHCARE](https://dampai.netlify.app/home.png)
 
 Tech: Django, React, PostgreSQL, WebSockets, Twilio
 
