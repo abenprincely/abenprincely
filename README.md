@@ -48,7 +48,7 @@
 > A multilingual platform to collect patient feedback, analyze sentiment, and trigger real-time alerts.
   
 ![project1](https://dampai.netlify.app/home.png)
-![AI ASSISTANCE IN HEALTHCARE](https://dampai.netlify.app/home.png)
+![AI ASSISTANCE IN HEALTHCARE](https://dampai.netlify.app)
 
 Tech: Django, React, PostgreSQL, WebSockets, Twilio
 
