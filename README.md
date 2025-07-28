@@ -68,9 +68,9 @@ Building cross-platform mobile apps using React Native — from UI design to dep
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abenprincely&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abenprincely&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -78,8 +78,8 @@ Building cross-platform mobile apps using React Native — from UI design to dep
 ## 📫 Get in Touch
 
 - 🌍 Portfolio: [coming soon](https://yourportfolio.com)
-- 📧 Email: [abenprincely1@gmail.com](mailto:abenprincely1@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/aben-princely-241226265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: [abenprincely1@gmail.com](abenprincely1@gmail.com)
+- 💼 LinkedIn: [linkedin/abenprincely](https://www.linkedin.com/in/aben-princely-241226265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
