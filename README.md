@@ -1,7 +1,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/123105916?v=4" alt="Banner" width="15%" height="15%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQENghwnnYWx4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708070590321?e=2147483647&v=beta&t=zwPLR1wjgPnogTNXfCb4PmzDVAO9VMKTWpjXMgbUFSI" alt="Banner" width="15%" height="15%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aben Princely</h1>
