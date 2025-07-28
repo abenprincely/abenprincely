@@ -1,7 +1,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/123105916?v=4" alt="Banner" width="25%" height="25%" />
+  <img src="https://avatars.githubusercontent.com/u/123105916?v=4" alt="Banner" width="15%" height="15%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aben Princely</h1>
